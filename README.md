@@ -5,6 +5,9 @@ Led christmas tree control by Arduino Nano.
 FadeLed lib
 https://github.com/septillion-git/FadeLed
 
+Install fadeLED before you start.
+![install lib](https://github.com/kotamorishi/LEDchristmasTree/blob/main/fadeLED.png?raw=true)
+
 # Wiring for fade LEDs
 
 Connect LED(positive) to pin 3,5,6,9,10,11
