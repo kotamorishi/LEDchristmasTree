@@ -22,6 +22,7 @@ Adjust resister value for LEDs.
 Connect LED(positive) to pin 12
 The other LED pin(Negative) should connect to GND via 220ohm resister.
 
-Adjust resister value for LEDs.
+Adjust resister value for the LED.
 
+#Implemented sample
 https://twitter.com/i/status/1337996309370953729
