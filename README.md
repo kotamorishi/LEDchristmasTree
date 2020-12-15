@@ -1,5 +1,5 @@
 # LEDchristmasTree
-Led christmas tree control by Arduino Nano.
+Christmas tree LED control by Arduino Nano
 
 # Requirement
 FadeLed lib
@@ -7,6 +7,9 @@ https://github.com/septillion-git/FadeLed
 
 Install fadeLED before you start.
 ![install lib](https://github.com/kotamorishi/LEDchristmasTree/blob/main/fadeLED.png?raw=true)
+
+# Prepare tree
+Make a tree whatever you like. e.g. 3D printed/Cardboard/Reused cerial box
 
 # Wiring for fade LEDs
 
