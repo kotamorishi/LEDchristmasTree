@@ -2,12 +2,9 @@
 
 FadeLed leds[6] = {3, 5, 6, 9, 10, 11};
 
-
 const int maxFadeDuration = 3000;
 const int ledNums = 6;
 long fadeDuration = 1000;
-bool decleaseMode = false;
-long  counter = 0;
 
 void setup() {
   pinMode(12, OUTPUT);    // sets the digital pin 12 as output
